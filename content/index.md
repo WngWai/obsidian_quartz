@@ -5,8 +5,7 @@ tags:
 date: 2024-06-25
 ---
  个人笔记基本都记录在Obsidian上，实质是md文件，因为格式差异，转换到之前的[简易博客](https://wngwai.github.io/)需要二次调整。随着内容日渐庞杂，为了后续便捷更新和所见即所得，代码内容借助Quartz进行了新的部署，部署文档参考[Nicole van der Hoeven](https://nicolevanderhoeven.com/)的[How to publish Obsidian notes with Quartz on GitHub Pages](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)，配套视频教程[How to publish your notes for free with Quartz](https://www.youtube.com/watch?v=6s6DT1yN4dw)。
-
-&nbsp
+<br>
 1，每个人关注的重点有差异，建议下载[原始md文件](https://github.com/WngWai/obsidian_quartz/tree/v4/content)二次精简；
 2，本笔记的主要作用是**知识迭代和抗遗忘**，对个人来说是不断更新的代码或项目字典；
 
@@ -26,7 +25,7 @@ date: 2024-06-25
 	
 	[[04 DQL数据查询]]
 
-&nbsp
+<br><br>
 - R语言
 
 	- 数据处理
@@ -68,7 +67,7 @@ date: 2024-06-25
 		
 		[[04 mlr3verse]]
 
-&nbsp
+<br><br>
 - Python
 	- 数据处理
 		
