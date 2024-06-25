@@ -6,6 +6,9 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+
+// 扩展 Theme 接口，添加 stylesheets 属性
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪴 WngWai 1.0",
@@ -47,7 +50,7 @@ const config: QuartzConfig = {
           tertiary: "#f4a261",
           highlight: "rgba(52, 211, 153, 0.15)",
         },
-      },      
+      },   
     },
   },
   plugins: {
